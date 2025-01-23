@@ -1,17 +1,14 @@
-Hola !!! , Navya Sri ✨
-====================================================================================================================================
-
-Undergraduate at Dhanekula Institute of Engineering and Technology
+# Hola !!! , Navya Sri ✨
+##                      ~ A Undergraduate at Dhanekula Institute of Engineering and Technology
 ---------------------------------------------
 
-I'm a dedicated Computer Science Enthusiast with a profound fascination in this field. I'm always open to learning new things.✨
-💫I'm a self-motivated personality who is sociable with all.💫
-🚀With the thirst for knowledge, I constantly explore new horizons, ensuring that I remain updated on evolving technologies and industry trends.🚀
+I`m a passionate Computer Science Enthusiast with an insatiable curiosity for the ever-evolving tech landscape. Based in the vibrant city of Vijayawada, I thrive on continuous learning and am always eager to expand my horizons.
 
-* 🌍  I'm based in Vijayawada
-* ✉️  You can contact me at [navyasweety235@gmail.com](mailto:navyasweety235@gmail.com)
-* 🧠  I'm learning Artificial Intelligence and Machine Learning || Data Science 
-* 🤝  I'm open to collaborating on interesting projects
+✨ # Driven & Engaging: As an extrovert and approachable communicator, I thrive in collaborative environments, fostering positivity and connection among peers. My self-motivation fuels my journey, enabling me to inspire and uplift those around me.
+
+🚀 # Current Pursuits: I am delving into the fascinating realms of Artificial Intelligence, Machine Learning, and Data Science. With a keen eye on emerging trends, I strive to remain at the forefront of technological advancements.
+
+🌍 Let’s Collaborate: I am eager to engage in intriguing projects that challenge the status quo and spark creativity. Feel free to reach out to me at navyasweety235@gmail.com.(mailto:navyasweety235@gmail.com)
  
 ### Skills
 

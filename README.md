@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Navya Reddy
 ====================================================================================================================================
 
-Student at Aditya College of Engineering and Technology
+Student at Dhanekula Institute of Engineering and Technology
 ---------------------------------------------
 
 I'm a dedicated Computer Science Enthusiast with a profound fascination in this field. I'm always open to learning new things.✨
 💫I'm a self-motivated personality who is sociable with all.💫
 🚀With the thirst for knowledge, I constantly explore new horizons, ensuring that I remain updated on evolving technologies and industry trends.🚀
 
-* 🌍  I'm based in Kakinada
-* ✉️  You can contact me at [reiincarnatiion@gmail.com](mailto:reiincarnatiion@gmail.com)
+* 🌍  I'm based in Vijayawada
+* ✉️  You can contact me at [navyasweety235@gmail.com](mailto:navyasweety235@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning || Data Science 
 * 🤝  I'm open to collaborating on interesting projects
  

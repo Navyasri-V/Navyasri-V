@@ -8,7 +8,7 @@ I`m a passionate Computer Science Enthusiast with an insatiable curiosity for th
 
 🚀 # Current Pursuits: I am delving into the fascinating realms of Artificial Intelligence, Machine Learning, and Data Science. With a keen eye on emerging trends, I strive to remain at the forefront of technological advancements.
 
-🌍 Let’s Collaborate: I am eager to engage in intriguing projects that challenge the status quo and spark creativity. Feel free to reach out to me at navyasweety235@gmail.com.(mailto:navyasweety235@gmail.com)
+🌍 Let’s Collaborate: I am eager to engage in intriguing projects that challenge the status quo and spark creativity. Feel free to reach out to me at navyasweety235@gmail.com.
  
 ### Skills
 

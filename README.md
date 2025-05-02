@@ -1,5 +1,5 @@
 # Hola !!! , Navya Sri ✨
-##                      ~ A Undergraduate at Dhanekula Institute of Engineering and Technology
+##                      ~ A Graduate In Bachelor of Technology In stream of CSE ( AI & ML )
 ---------------------------------------------
 
 I`m a passionate Computer Science Enthusiast with an insatiable curiosity for the ever-evolving tech landscape. Based in the vibrant city of Vijayawada, I thrive on continuous learning and am always eager to expand my horizons.

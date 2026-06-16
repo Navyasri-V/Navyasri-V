@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navya%20Sri%20V&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Systems%20Builder%20%7C%20Forward%20Deployed%20Engineer&descAlignY=55&descSize=18" />
 
-<h3 align="center">B.Tech CSE (AI & ML) · Vijayawada, India · 2 Scopus/UGC Publications · Building in Public</h3>
+<h3 align="center">B.Tech CSE (AI & ML)   · Vijayawada, India    · 2 Scopus/UGC Publications   · Building in Public</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/navya-sri-v-b8854426a">
